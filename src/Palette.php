@@ -42,7 +42,7 @@ class Palette extends Base {
 
 		$url = apply_filters(
 			'kirki_package_url_control_palette',
-			trailingslashit( Kirki::$url ) . 'packages/kirki-framework/control-palette/src'
+			trailingslashit( Kirki::$url ) . 'vendor/kirki-framework/control-palette/src'
 		);
 
 		// Enqueue the script.
