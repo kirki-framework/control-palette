@@ -50,7 +50,6 @@ class Palette extends Base {
 			'kirki-control-palette',
 			"$url/assets/scripts/control.js",
 			[
-				'kirki-script',
 				'jquery',
 				'customize-base',
 				'kirki-dynamic-control',
