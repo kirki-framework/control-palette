@@ -14,3 +14,5 @@ add_action(
         class_alias( 'Kirki\Control\Palette', 'Kirki_Control_Palette' );
     }
 );
+
+class_alias( 'Kirki\Field\Palette', 'Kirki_Field_Palette' );
