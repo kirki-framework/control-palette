@@ -10,7 +10,7 @@
 
 namespace Kirki\Control;
 
-use Kirki\Control\Rario;
+use Kirki\Control\Radio;
 use Kirki\URL;
 
 // Exit if accessed directly.
